@@ -3,7 +3,8 @@
 _Related to graphs in general and additional concepts not implemented by current graph database, and should be implemented in the application layer._
 
 # Content files: 
-- [Concepts](/documentation/concept.md)
+- [Graph concepts for extending the data structure](/documentation/concept.md)
+
 
 # Resources:
 - Related to extending graphs - https://en.wikipedia.org/wiki/Graph_minor#Example
