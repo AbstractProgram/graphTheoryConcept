@@ -5,10 +5,10 @@ _Graph / Node Relationship Graph / Nested Unit Tree / Trees / Herarchies / Neste
 - Generally speaking, there isn't really a concept of mutable state in abstract algebra (of which Graph Theory is a part). Only existence/non-existence. Graphs have a static state, and cannot be mutable in common Graph Theory concepts. Any 'change' indicated would be another distinct graph.
 
 # Contents links: 
-- [classification concept](/documentation/concept/classification.md)
-- [Extension concept](/documentation/concept/extension.md)
-- [Port concept](/documentation/concept/port.md)
-- [Reroute concept](/documentation/concept/reroute.md)
+- [classification concept](/documentation/classification.md)
+- [Extension concept](/documentation/extension.md)
+- [Port concept](/documentation/port.md)
+- [Reroute concept](/documentation/reroute.md)
 
 ### Definitions: 
 - **Multiedge/Parallel edges**: Multiple connections between 2 verticies/nodes.
