@@ -2,6 +2,9 @@
 📔 Graph theory concepts - definitions &amp; terminology, extended concepts, articles &amp; resources, etc.
 _Related to graphs in general and additional concepts not implemented by current graph database, and should be implemented in the application layer._
 
+# Content files: 
+- [Concepts](/documentation/concept.md)
+
 # Resources:
 - Related to extending graphs - https://en.wikipedia.org/wiki/Graph_minor#Example
 - Topological sort of graph based on the interconnected edges, not any numeric value (non-numeric sort). a set of tasks to be completed in precedence constraints (precedence schedualing) - DepthFirstOrder using DFS algorithm - https://fr.coursera.org/lecture/algorithms-part2/topological-sort-RAMNS
